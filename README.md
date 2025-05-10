@@ -20,7 +20,7 @@ Querétaro, México · ✉️ ruiz7am@outlook.com · 📱 +52 487 195 6567
 
 ### 🎬 Mex Movie DB  
 > App que consume API REST. Interfaz dinámica con filtros por género, scroll infinito y diseño responsive.  
-🔗[Mex movie db](https://ruizamdev.github.io/the-movie-db-ruizam/)
+🔗[Mex movie db](https://ruizamdev.github.io/mex-movie-db/)
 
 ### 🧱 Impermex  
 > Sitio institucional. Identidad visual limpia, experiencia accesible, enfoque informativo para usuarios no técnicos.  
