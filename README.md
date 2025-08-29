@@ -1,44 +1,49 @@
-# 👨🏽‍💻 Armando Ruiz  
+# 👨🏽‍💻 Armando Ruiz
+
 **Frontend Developer** · *UX/UI Enthusiast*  
 [ruizam.dev](https://ruizamdev.github.io/ruizam) · [GitHub](https://github.com/Ruizamdev) · [LinkedIn](https://www.linkedin.com/in/ruizam/)  
-Querétaro, México · ✉️ ruiz7am@outlook.com · 📱 +52 487 195 6567  
+Querétaro, México · ✉️ <artmx@proton.me>  
 
 ---
 
-## 🚀 Stack Principal  
+## 🚀 Stack Principal
+
 - ⚙️ HTML · CSS · JavaScript (ES6+)  
-- 🛠️ Astro · Web Components · TailwindCSS  
-- 🎨 UI/UX · Animaciones · Diseño Responsivo  
+- 🛠️ Web Components · TailwindCSS  
+- 🎨 UI/UX · Diseño Responsivo  
 - ⚡ Git · GitHub  
 
 ---
 
-## 🧩 Proyectos Destacados  
-### 🌐 ruizam.dev  
+## 🧩 Proyectos Destacados
+
+### 🌐 ruizam.dev
+
 > Blog personal SPA con navegación suave, animaciones sutiles, diseño modular y tema oscuro/claro.  
 🔗[ruizam.dev](https://ruizamdev.github.io/ruizam/)
 
-### 🎬 Mex Movie DB  
+### 🎬 Mex Movie DB
+
 > App que consume API REST. Interfaz dinámica con filtros por género, scroll infinito y diseño responsive.  
 🔗[Mex movie db](https://ruizamdev.github.io/mex-movie-db/)
 
-### 🧱 Impermex  
+### 🧱 Impermex
+
 > Sitio institucional. Identidad visual limpia, experiencia accesible, enfoque informativo para usuarios no técnicos.  
 🔗[Impermex](https://ruizamdev.github.io/impermex.com/)
 
 ---
 
-## 📡 Skills Extra  
-- ⚙️ Linux CLI · VSCode Pro User  
-- 🧠 Notion para organización y gestión de proyectos  
-- 🎭 Diseño de UI estilo retro-futurista y minimalista
-- 🔗 Integración de APIs REST · Deploy continuo  
+## 📡 Skills Extra
+
+- ⚙️ Linux CLI · VSCode
+- 🧠 Notion para organización y gestión de proyectos
+- 🔗 Integración de APIs REST · Deploy continuo
+- 🎨 Figma
 
 ---
 
-## 🛠️ Formación  
-**CS50x - Harvard (en progreso)**  
-> Fundamentos de ciencias de la computación.
+## 🛠️ Formación
 
 **Platzi**  
 > +20 cursos completados en Frontend, UX/UI, IA para devs, Branding y negocios digitales.  
