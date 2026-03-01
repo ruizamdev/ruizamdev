@@ -1,6 +1,6 @@
 <p align="center" dir="auto">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fff200,100:ffcc00&text=ruizAMDev&fontColor=000000&fontSize=54&fontAlignY=38&desc=Desarrollador%20Web&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:fff200,100:ffcc00&text=RuizAMDev&fontColor=000000&fontSize=54&fontAlignY=38&desc=Desarrollador%20Web&descAlignY=58"
     alt="ruizAMDev header"
     width="100%"
   />
