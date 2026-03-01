@@ -57,7 +57,7 @@
 <div align="center">
   <h2 align="center">Estadísticas de GitHub</h2>
 
-<div class="stats-container" style="display: flex; flex-direction: row; align-items: center; justify-content: center;flex-wrap: wrap; gap: 20px;">
+<div class="stats-container" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Ruizamdev&layout=compact&langs_count=10&theme=transparent&title_color=00bfff&text_color=ffffff">
