@@ -54,32 +54,26 @@
 
 <hr>
 
-<div align="center">
   <h2 align="center">Estadísticas de GitHub</h2>
 
 <div align="center" dir="auto" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Ruizamdev&layout=compact&langs_count=10&theme=transparent&title_color=00bfff&text_color=ffffff">
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Ruizamdev&layout=compact&langs_count=10&theme=default">
       <img alt="Lenguajes mas utilizados" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Ruizamdev&layout=compact&langs_count=10&theme=default" />
     </picture>
-  </div>
-  <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Ruizamdev&show_icons=true&theme=transparent&title_color=00bfff&text_color=ffffff">
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Ruizamdev&show_icons=true&theme=default">
       <img alt="Estadísticas de GitHub" src="https://github-readme-stats-six-seven.vercel.app/api?username=Ruizamdev&show_icons=true&theme=default" />
     </picture>
-  </div>
-  <div>
+    </div>
+    <div align="center" dir="auto" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ruizamdev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Ruizamdev&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D">
       <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ruizamdev&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </picture>
-  </div>
-</div>
 </div>
 
 <p align="center" dir="auto">
