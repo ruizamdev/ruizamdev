@@ -35,6 +35,8 @@
   <img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img alt="codex" src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=codex&logoColor=white">
+  <img alt="claude code" src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude-code&logoColor=white">
 
 </p>
 
@@ -47,6 +49,7 @@
   <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
   <img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img alt="powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 <hr>
@@ -54,7 +57,7 @@
 <div align="center">
   <h2 align="center">Estadísticas de GitHub</h2>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+<div class="stats-container" style="display: flex; flex-direction: row; align-items: center; justify-content: center;flex-wrap: wrap; gap: 20px;">
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Ruizamdev&layout=compact&langs_count=10&theme=transparent&title_color=00bfff&text_color=ffffff">
@@ -67,6 +70,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Ruizamdev&show_icons=true&theme=transparent&title_color=00bfff&text_color=ffffff">
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Ruizamdev&show_icons=true&theme=default">
       <img alt="Estadísticas de GitHub" src="https://github-readme-stats-six-seven.vercel.app/api?username=Ruizamdev&show_icons=true&theme=default" />
+    </picture>
+  </div>
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ruizamdev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Ruizamdev&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ruizamdev&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </picture>
   </div>
 </div>
