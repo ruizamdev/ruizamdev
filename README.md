@@ -36,8 +36,6 @@
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img alt="codex" src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=codex&logoColor=white">
-  <img alt="claude code" src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude-code&logoColor=white">
-
 </p>
 
 <h2 align="center" dir="auto">Otras tecnologías usadas</h2>
@@ -50,6 +48,7 @@
   <img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img alt="powershell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="claude code" src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude-code&logoColor=white">
 </p>
 
 <hr>
