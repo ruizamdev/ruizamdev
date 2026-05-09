@@ -11,13 +11,13 @@
 <h2 align="center" dir="auto">Acerca de mí</h2>
 
 <p align="center" dir="auto" style="font-size: 18px;">
- 💻 Desarrollador web con asistencia de agentes AI.
+ 💻 Desarrollador web
    <br>
   🚀 Agilizando la <b>construcción</b> y <b>experiencia</b>.
 </p>
 
 <p align="center" dir="auto" style="font-size: 13px;">
-  Construyo aplicaciones con la ayuda de agentes AI, <b>Codex</b> y <b>Claude Code</b> son mis dos asistentes preferidos. Actualmente trabajo en <a href="https://github.com/gruposiscom">@gruposiscom</a>, nos dedicamos a la implementación de soluciones de automatización de operaciones administrativas a todo tipo de empresas.
+  Construyo aplicaciones con la ayuda de agentes AI, <b>Codex</b> y <b>Opencode</b> son mis dos asistentes preferidos. Actualmente trabajo en <a href="https://github.com/gruposiscom">@gruposiscom</a>, nos dedicamos a la implementación de soluciones de automatización de operaciones administrativas a todo tipo de empresas.
 </p>
 <br>
 <h2 align="center" dir="auto">Mi Stack Recurrente</h2>
